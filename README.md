@@ -10,5 +10,8 @@ Sistema de recomendación para entrega final del proyecto de la materia, miembro
 ## Anexado resultado de ejecución en Tensorflow
 
 Se muestra el proceso de lectura y creación del sistema de recomendación en tensorflow, de este trabajo
-obtuvimos resultados satisfactorios con respecto a la versión de spark con un RMSE de $1.447$ incluso sin realizar una normalización de la data.
+obtuvimos resultados satisfactorios con respecto a la versión de spark con un RMSE de 1.447 incluso sin realizar una normalización de la data.
 
+## Anexado resultado de ejecución en PySpark
+
+Se muestra el proceso de lectura y creación de un sistema de recomendación en pyspark. logrando un RMSE de 2.5163 ajustando los hiperparámetros
